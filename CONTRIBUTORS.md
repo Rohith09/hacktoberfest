@@ -1,3 +1,8 @@
+#### Name: [Rohith Kandi](https://github.com/Rohith09)
+ - Place: Greater Noida, UP
+ - Bio: Learning Programming & Student
+ - GitHub: [Rohith09](https://github.com/Rohith09)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
